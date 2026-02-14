@@ -1,8 +1,8 @@
 # Hi, I'm Nikolai Shatikhin
 
-ML Engineer specializing in Computer Vision and Deep Learning. I build production-ready AI solutions for industrial quality control, agriculture, and medical imaging.
+ML Engineer specializing in Computer Vision and Deep Learning. I build production-ready AI solutions for industrial quality control, agriculture and medical imaging.
 
-Based in Ulaanbaatar, Mongolia — available for freelance and contract work worldwide.
+Based in Ulaanbaatar, Mongolia - available for freelance and contract work worldwide.
 
 ## Tech Stack
 
@@ -38,13 +38,6 @@ Plant disease classifier covering 14 crops and 38 categories with **98.8% accura
 - **Medical Imaging** — lesion classification, diagnostic assistance
 - **Agriculture AI** — crop disease identification, precision farming
 - **Custom CV Solutions** — object detection, image classification, segmentation
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shatini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatini&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 ## Contact
 
