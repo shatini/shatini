@@ -1,6 +1,6 @@
 # Hi, I'm Nikolai Shatikhin
 
-ML Engineer specializing in Computer Vision and Deep Learning. I build AI solutions for industrial quality control, agriculture, and medical imaging. Based in Ulaanbaatar, Mongolia — available for freelance and contract work worldwide.
+ML Engineer specializing in Computer Vision and Deep Learning. I build AI solutions for industrial quality control, agriculture, and medical imaging. Based in Ulaanbaatar, Mongolia - available for freelance and contract work worldwide.
 
 ## Tech Stack
 
