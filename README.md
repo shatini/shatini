@@ -32,11 +32,18 @@ Plant disease classifier covering 14 crops and 38 categories with **98.8% accura
 
 `PyTorch` `Agriculture` `ResNet18` `98.8% accuracy`
 
+### [Credit Score Classification](https://github.com/shatini/credit-score-classification-ai)
+
+Credit risk scoring system — compares 5 ML models (LogReg, RF, XGBoost, LightGBM, CatBoost) across 3 risk categories on 100,000+ customer records. Best model: LightGBM.
+
+`scikit-learn` `LightGBM` `XGBoost` `CatBoost`
+
 ## What I Do
 
 - **Industrial AI** — defect detection, quality control automation
 - **Medical Imaging** — lesion classification, diagnostic assistance
 - **Agriculture AI** — crop disease identification, precision farming
+- **Credit Scoring** — risk classification, financial data preprocessing
 - **Custom CV Solutions** — object detection, image classification, segmentation
 
 ## Contact
